@@ -1,5 +1,2 @@
 
-Lpython:S1066("/Merge this if statement with the enclosing one.(ŠˆË¹ÿÿÿÿÿ
-qpython:S3776$"TRefactor this function to reduce its Cognitive Complexity from 66 to the 15 allowed.(ÐÜ·›ÿÿÿÿÿ
-Cpython:S5806*"+Rename this variable; it shadows a builtin.(Þ’—ð
-\python:S3457E"EAdd replacement fields or use a normal string instead of an f-string.(äÅé|
+xpython:S3776$"TRefactor this function to reduce its Cognitive Complexity from 54 to the 15 allowed.(ÐÜ·›ÿÿÿÿÿ8†¦•Ù¥1
